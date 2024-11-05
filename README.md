@@ -17,7 +17,14 @@
   - Close (Закрытие)
 - Возможность выбора размера структурирующего элемента.
 
-## Установка
+## Запуск
+
+Скачайте и запустите main.exe
+
+![изображение](https://github.com/user-attachments/assets/113f7ca1-1cbd-46c6-b76a-13a571d37d58)
+
+
+## Установка в Python
 
 1. Установите зависимости:
 
@@ -47,6 +54,8 @@ image_processing_app/
 │
 ├── main.py
 └── README.md
+└── main.exe
+
 Зависимости
 opencv-python-headless==4.5.3.56
 
